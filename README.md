@@ -66,39 +66,6 @@ Until now, I hope you have a basic understanding of the template code and what t
 
 This template is only provided as a start point, feel free to make any modification of the codes or code structures if needed. After you finish coding, your algorithms should produce similar results as the images in **demo** folder.
 
-## Rubrics
-
-- (3 pts) Your PRM is implemented correctly
-
-  - Four sampling methods produce the correct sampling points
-  - Connect the sampling points, start and goal into a graph using a proper method
-  
-  - Given start and goal, find a path if feasible.
-  
-  ---
-- (3 pts) Your RRT and RRT* are implemented correctly
-
-  - Get proper new nodes in each step
-  - Connect and rewire (RRT*) new nodes
-  - Find a path if feasible
-
-  ---
-
-- (1 pts) Documentation
-
-  Besides the code, you should also include a documentation with the following content:
-
-  - Briefly answer the following questions
-
-    - For PRM, what are the advantages and disadvantages of the four sampling methods in comparison to each other?
-    - For RRT, what is the main difference between RRT and RRT*? What change does it make in terms of the efficiency of the algorithms and optimality of the search result?
-    - Comparing between PRM and RRT, what are the advantages and disadvantages?
-    
-  - Algorithm results and explanation
-    
-    Run your code with `python main.py` and **save your results as png images**. Briefly explain why your algorithms would produce these results. Why RRT and RRT* result in different trees? How different sampling methods lead to different sample sets in the graph?
-    
-  - Reference paper and resources if any
   
   Include the documentation as a pdf file, or if you prefer, a md file.
   
