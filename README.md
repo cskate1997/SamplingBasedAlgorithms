@@ -66,7 +66,9 @@ Until now, I hope you have a basic understanding of the template code and what t
 
 This template is only provided as a start point, feel free to make any modification of the codes or code structures if needed. After you finish coding, your algorithms should produce similar results as the images in **demo** folder.
 
+Include the documentation as a pdf file, or if you prefer, a md file.
 
+  
 ##Bridge Sampling 
 ![bridge](https://github.com/cskate1997/SamplingBasedAlgorithms/assets/94412831/4f4034f1-e908-47d0-8808-755f77d3fe2b)
 
@@ -90,7 +92,7 @@ This template is only provided as a start point, feel free to make any modificat
 
 
   
-  Include the documentation as a pdf file, or if you prefer, a md file.
+
   
   
 
