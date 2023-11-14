@@ -69,22 +69,22 @@ This template is only provided as a start point, feel free to make any modificat
 Include the documentation as a pdf file, or if you prefer, a md file.
 
   
-##Bridge Sampling 
+## Bridge Sampling 
 ![bridge](https://github.com/cskate1997/SamplingBasedAlgorithms/assets/94412831/4f4034f1-e908-47d0-8808-755f77d3fe2b)
 
-##Gausian Sampling
+## Gausian Sampling
 ![gaussian](https://github.com/cskate1997/SamplingBasedAlgorithms/assets/94412831/ca55827f-010f-40a2-96d3-9cc11c074b8d)
 
-##Random Sampling
+## Random Sampling
 ![random](https://github.com/cskate1997/SamplingBasedAlgorithms/assets/94412831/efce3a51-78a9-440a-8554-8090391e0260)
 
-##Uniform Sampling 
+## Uniform Sampling 
 ![uniform](https://github.com/cskate1997/SamplingBasedAlgorithms/assets/94412831/072ccacc-ab47-48f4-9c79-f946001a4f25)
 
-##RRT
+## RRT
 ![RRT](https://github.com/cskate1997/SamplingBasedAlgorithms/assets/94412831/d65cb5f0-9fbb-4cf0-a76e-d698220182cc)
 
-##RRT*
+## RRT*
 ![RRT_star](https://github.com/cskate1997/SamplingBasedAlgorithms/assets/94412831/9861a72d-6799-4b03-b8b8-61877644eb64)
 
 
